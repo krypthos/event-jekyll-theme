@@ -1,4 +1,4 @@
-title: Your Title
+title: Eleutheria
 description: > # this means to ignore newlines until "baseurl:"
   Your description
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -17,7 +17,7 @@ social:
 
 google_site_verification: googleXXXXXXXXXXXXXXXX.html
 
-include: ['_2016_pages', '_2017_pages']
+include: ['_2016_pages']
 
 plugins:
   - jekyll-sitemap
